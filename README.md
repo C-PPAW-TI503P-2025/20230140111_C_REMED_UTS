@@ -1,19 +1,15 @@
-# Backend Sistem Perpustakaan
+# Remedial UTS PAW
 
-> **Remedial UTS**  
-> **Mata Kuliah:** Pengembangan Aplikasi Web  
 > **Nama:** Syihwa Moza Alika YP Kastella  
 > **NIM:** 20230140111
 
 ---
 
 ## 📖 Deskripsi Proyek
-
-Backend sistem manajemen perpustakaan menggunakan **Node.js**, **Express.js**, dan **Sequelize ORM** dengan database **MySQL**. Sistem ini menyediakan REST API untuk mengelola data buku dan transaksi peminjaman dengan fitur role-based access control.
+Sistem manajemen perpustakaan menggunakan **Node.js**, **Express.js**, dan **Sequelize ORM** dengan database **MySQL**. Sistem ini menyediakan REST API untuk mengelola data buku dan transaksi peminjaman dengan fitur role-based access control.
 
 ## 📁 Struktur Proyek
 ![struktur proyek](https://github.com/user-attachments/assets/a915cbf3-72a0-45c7-875f-ace362995e92)
-
 
 ## 🚀 Cara Menjalankan Aplikasi
 
@@ -25,7 +21,7 @@ Buka **MySQL Workbench**, lalu jalankan:
 CREATE DATABASE library_db;
 ```
 
-> **Catatan:** Tabel akan dibuat otomatis oleh Sequelize saat server dijalankan.
+> **note:** Tabel akan dibuat otomatis oleh Sequelize saat server dijalankan.
 
 ---
 
