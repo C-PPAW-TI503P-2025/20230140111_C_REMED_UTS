@@ -12,6 +12,7 @@
 Backend sistem manajemen perpustakaan menggunakan **Node.js**, **Express.js**, dan **Sequelize ORM** dengan database **MySQL**. Sistem ini menyediakan REST API untuk mengelola data buku dan transaksi peminjaman dengan fitur role-based access control.
 
 ## 📁 Struktur Proyek
+![struktur proyek](https://github.com/user-attachments/assets/a915cbf3-72a0-45c7-875f-ace362995e92)
 
 
 ## 🚀 Cara Menjalankan Aplikasi
