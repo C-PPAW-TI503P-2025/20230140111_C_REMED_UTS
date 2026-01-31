@@ -1,4 +1,4 @@
-![struktur proyek 1](https://github.com/user-attachments/assets/0b120213-26dc-445b-8a34-2e3800db0937)# Remedial UTS PAW
+# Remedial UTS PAW
 
 > **Nama:** Syihwa Moza Alika YP Kastella  
 > **NIM:** 20230140111
