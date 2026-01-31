@@ -77,8 +77,6 @@ Server berjalan di: **http://localhost:3000**
 
 
 ### 2. Tampilan Web (Browser)
-
-#### Screenshot 6: GET /api/books di Browser
 ![tampilan 5](https://github.com/user-attachments/assets/4ef16272-d113-4d80-ac7a-ea82b927a69c)
 ![tampilan 4](https://github.com/user-attachments/assets/8c8e41cd-4115-4109-8de9-d2efb8863a96)
 ![tampilan 3](https://github.com/user-attachments/assets/0622f099-fd92-472b-a4df-2f51ead05d90)
@@ -92,18 +90,18 @@ Server berjalan di: **http://localhost:3000**
 
 ### 3. Struktur Database
 
-#### Screenshot 7: Database Schema (List Tables)
+#### Screenshot 6: Database Schema (List Tables)
 ![struktur database](https://github.com/user-attachments/assets/37203452-d7f2-4bb2-8bfb-24f00df91c93)
 
-#### Screenshot 8: Struktur Tabel books
+#### Screenshot 7: Struktur Tabel books
 ![db 5](https://github.com/user-attachments/assets/7061f3a1-9249-4062-a5d1-da98e71d268e)
 
-#### Screenshot 9: Struktur Tabel borrow_logs
+#### Screenshot 8: Struktur Tabel borrow_logs
 ![db 3](https://github.com/user-attachments/assets/37284213-c7ac-4404-bc73-4a8e40cb2864)
 
-#### Screenshot 10: Data di Tabel books
+#### Screenshot 9: Data di Tabel books
 ![db 1](https://github.com/user-attachments/assets/bd32b3f9-fce8-4897-ad5c-784edbbe1c21)
 
-#### Screenshot 11: Data di Tabel borrow_logs
+#### Screenshot 10: Data di Tabel borrow_logs
 ![db 2](https://github.com/user-attachments/assets/bfde1422-8c7d-40a4-8160-19fea1e29fa2)
 
