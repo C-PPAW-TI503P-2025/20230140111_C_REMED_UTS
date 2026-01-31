@@ -1,4 +1,4 @@
-# Remedial UTS PAW
+![struktur proyek 1](https://github.com/user-attachments/assets/0b120213-26dc-445b-8a34-2e3800db0937)# Remedial UTS PAW
 
 > **Nama:** Syihwa Moza Alika YP Kastella  
 > **NIM:** 20230140111
@@ -9,7 +9,8 @@
 Sistem manajemen perpustakaan menggunakan **Node.js**, **Express.js**, dan **Sequelize ORM** dengan database **MySQL**. Sistem ini menyediakan REST API untuk mengelola data buku dan transaksi peminjaman dengan fitur role-based access control.
 
 ## 📁 Struktur Proyek
-![struktur proyek](https://github.com/user-attachments/assets/a915cbf3-72a0-45c7-875f-ace362995e92)
+![struktur proyek 1](https://github.com/user-attachments/assets/aff1670c-1389-4e97-bb2f-0b641e7acf15)
+![struktur proyek 2](https://github.com/user-attachments/assets/caa07fcf-485c-421e-a889-527583fd6c3d)
 
 ## 🚀 Cara Menjalankan Aplikasi
 
@@ -78,8 +79,14 @@ Server berjalan di: **http://localhost:3000**
 ### 2. Tampilan Web (Browser)
 
 #### Screenshot 6: GET /api/books di Browser
-![tampilan web 1](https://github.com/user-attachments/assets/fba3752b-712a-4ee1-a480-ca5d295a7d3f)
-![tampilan web 2](https://github.com/user-attachments/assets/f9614fcf-210b-4696-9535-7e8762504a83)
+![tampilan 5](https://github.com/user-attachments/assets/4ef16272-d113-4d80-ac7a-ea82b927a69c)
+![tampilan 4](https://github.com/user-attachments/assets/8c8e41cd-4115-4109-8de9-d2efb8863a96)
+![tampilan 3](https://github.com/user-attachments/assets/0622f099-fd92-472b-a4df-2f51ead05d90)
+![tampilan 2](https://github.com/user-attachments/assets/fd7fd59c-602d-4288-bfb0-1d010e26dba0)
+![tampilan 1](https://github.com/user-attachments/assets/d099e3c7-871e-4e8e-9599-37512a16d561)
+![tampilan 8](https://github.com/user-attachments/assets/459e1f6a-8055-45b8-9acc-caeda21d255a)
+![tampilan 7](https://github.com/user-attachments/assets/bf59474d-cfec-49f6-acff-ea24ccaad70c)
+![tampilan 6](https://github.com/user-attachments/assets/6fb6f7bf-a47d-4acc-8920-805ca84f0021)
 
 ---
 
