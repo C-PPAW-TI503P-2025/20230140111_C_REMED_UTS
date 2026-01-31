@@ -1,6 +1,7 @@
 require('dotenv').config();
 const app = require('./app');
 const { sequelize } = require('./models');
+const seedAdmin = require('./config/seedAdmin');
 
 const PORT = process.env.PORT || 3000;
 
@@ -15,11 +16,16 @@ const startServer = async () => {
         await sequelize.sync({ alter: false });
         console.log('✓ Database models synchronized');
 
+        // Seed default admin user
+        await seedAdmin();
+
         // Start server
         app.listen(PORT, () => {
             console.log(`✓ Server running on port ${PORT}`);
             console.log(`✓ API URL: http://localhost:${PORT}`);
             console.log('\nAvailable endpoints:');
+            console.log('  POST   /api/auth/register   - Register user');
+            console.log('  POST   /api/auth/login      - Login (admin/user)');
             console.log('  GET    /api/books          - Get all books (Public)');
             console.log('  GET    /api/books/:id      - Get book by ID (Public)');
             console.log('  POST   /api/books          - Create book (Admin)');

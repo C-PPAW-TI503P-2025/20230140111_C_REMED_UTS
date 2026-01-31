@@ -1,6 +1,7 @@
 const sequelize = require('../config/database');
 const Book = require('./Book');
 const BorrowLog = require('./BorrowLog');
+const User = require('./User');
 
 // Define associations
 Book.hasMany(BorrowLog, {
@@ -16,5 +17,6 @@ BorrowLog.belongsTo(Book, {
 module.exports = {
     sequelize,
     Book,
-    BorrowLog
+    BorrowLog,
+    User
 };
